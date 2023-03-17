@@ -109,8 +109,21 @@ nav ul li + li + li{
     font-style: italic;
 }
 .content p{
-    /* color: #333; */
+    color: #333;
     line-height: 1.5;
+}
+.content p pre{
+    color: #333;
+    line-height: 1.5;
+}
+.content ol{
+    color: #333;
+    line-height: 1.5;
+}
+.content ol li{
+    color: #333;
+    line-height: 2;
+    /* background-color: tomato; */
 }
 .content img{
     max-width: 100%;
